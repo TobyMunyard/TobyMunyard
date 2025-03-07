@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Toby, a second year Computer Science Student at The University of Otago and a Casual Full Stack Developer.
+### Hi there 👋 I'm Toby, a final year Computer Science Student at The University of Otago and a Casual Full Stack Developer.
 
-I'm currently working on a image editor group project through my course as well as several personal projects.
+Currently working on a full stack project for student flat management, flattie.
 
-I'm looking for internship opportunities over the 2024 summer break, contact me on my LinkedIn seen below!
+I recently completed a summer internship doing full stack development at Fisher and Paykel Dunedin. Check it out on my [LinkedIn](https://www.linkedin.com/in/toby-munyard-00b21627a/)!
 
 ### Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TobyMunyard&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
